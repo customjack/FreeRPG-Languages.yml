@@ -20,7 +20,7 @@
       information: Information
       configuration: Configuration
       level: Level
-      experience: experience
+      experience: Experience
       toNext: to next
       total: Total
       diggingPerkTitle0: Mo' drops
@@ -385,7 +385,7 @@
       globalPerkDesc7: You now harvest souls from killing aggressive mobs, which can
         be used to refund skill trees
       globalPerkDesc8: 10% chance to take no damage and gain all in-game buffs for 10s
-        on a hit that would normallu kill you
+        on a hit that would normally kill you
       globalPerkDesc9: Ability cooldowns decreased by 33%
       globalPassiveTitle0: Global Tokens
       globalPassiveTitle1: Back
@@ -562,13 +562,17 @@
       commandDesc9: Sets the souls for a specified player
       commandDesc10: Sets the skill or passive tokens in specified skill for a specified player
       commandDesc11: Sets the global tokens for a specified player
-      commandDesc12: saves stats of all players or a specified player
+      commandDesc12: Saves stats of all players or a specified player
       status: STATUS
       complete: COMPLETE
       incomplete: INCOMPLETE
       try0: "try"
       passiveImprove: Your passive perks improve every level!
       increasedBy: increased by
+      expIncrease: EXP Multiplier
+      personalMultiplier: Personal Multiplier
+      translators: Translators
+      commandDesc13: Sets the personal multiplier for a specified player
 
     huHU: #Translated by vERKE
       global: Globális
@@ -590,7 +594,7 @@
       information: Információk
       configuration: Beállítások
       level: Szint
-      experience: tapasztalatpont
+      experience: Tapasztalatpont
       toNext: Következő
       total: Összesített
       diggingPerkTitle0: Több Drop
@@ -1101,13 +1105,17 @@
       commandDesc9: Sets the souls for a specified player
       commandDesc10: Sets the skill or passive tokens in specified skill for a specified player
       commandDesc11: Sets the global tokens for a specified player
-      commandDesc12: saves stats of all players or a specified player
+      commandDesc12: Saves stats of all players or a specified player
       status: STATUS
       complete: COMPLETE
       incomplete: INCOMPLETE
       try0: "try"
       passiveImprove: Your passive perks improve every level!
       increasedBy: increased by
+      expIncrease: All EXP increased by
+      personalMultiplier: Personal Multiplier
+      translators: Translators
+      commandDesc13: Sets the personal multiplier for a specified player
 
     frFR: #Translated by Temuel
       global: Global
@@ -1129,7 +1137,7 @@
       information: Information
       configuration: Configuration
       level: Niveau
-      experience: experience
+      experience: Experience
       toNext: au prochain
       total: Total
       diggingPerkTitle0: Mo' drops
@@ -1642,3 +1650,7 @@
       try0: "try"
       passiveImprove: Your passive perks improve every level!
       increasedBy: increased by
+      expIncrease: All EXP increased by
+      personalMultiplier: Personal Multiplier
+      translators: Translators
+      commandDesc13: Sets the personal multiplier for a specified player
